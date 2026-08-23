@@ -81,6 +81,18 @@
 
 ---
 
+### 🚀 Open-Source Toolkits & Public Applications
+
+* **[Midaz MakeSpace](https://github.com/midazdev/makespace)** — *Free up space without deleting your photos.*
+  * *Live Portal*: [makespace.midaz.dev](https://makespace.midaz.dev)
+  * *Features*: 100% On-Device WebAssembly Photo Compressor, Apple HEIC/JPG/PNG conversion, batch chunking, zero uploads.
+* **[AI Governance Guardrails](https://github.com/midazdev/ai-governance-guardrails)**:
+  * *Features*: Lightweight Python toolkit for Reversible PII Masking, Prompt Injection Defense, and ISO 42001 / NIST AI RMF audit telemetry.
+* **[FastAPI Clean Architecture Blueprint](https://github.com/midazdev/fastapi-clean-architecture-blueprint)**:
+  * *Features*: Enterprise async backend starter with Domain-Driven Design (DDD), non-blocking I/O (8k+ RPS), and Docker Compose.
+
+---
+
 ### 🏛️ Sanitized Architecture Case Studies
 
 * **High-Throughput Asynchronous Microservices Gateway**:
