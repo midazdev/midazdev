@@ -17,7 +17,7 @@
 - 🚀 **Founder & Principal AI Systems Architect** at **Midaz Dev**, specializing in Enterprise AI Governance, high-throughput asynchronous APIs, and modern sub-second web platforms.
 - 🏗️ **Core Pillars**: Domain-Driven Design (DDD), Clean Architecture, Non-Blocking AsyncIO, Observability by Default, Zero-Downtime CI/CD.
 - 🛡️ **IP & Legal Privacy**: Public projects and case studies are sanitized reference architectures and open-source boilerplates.
-- 🌐 **Live Interactive Portfolio**: [Explore Live Portfolio & Architecture Visualizer](https://midazdev.github.io/portfolio)
+- 🌐 **Live Interactive Portfolio**: [samuel.midaz.dev (Explore System Architecture & CLI)](https://samuel.midaz.dev)
 
 ---
 
@@ -91,4 +91,4 @@
 - 📧 **Direct Email**: `samuel@midaz.dev`
 - 💼 **LinkedIn Profile**: [linkedin.com/in/datosamuel](https://www.linkedin.com/in/datosamuel)
 - 🐙 **GitHub Profile**: [github.com/midazdev](https://github.com/midazdev)
-- 🌐 **Interactive Portfolio**: [View Live Portfolio](https://midazdev.github.io/portfolio)
+- 🌐 **Interactive Portfolio**: [samuel.midaz.dev](https://samuel.midaz.dev)
