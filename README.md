@@ -21,6 +21,17 @@
 
 ---
 
+### 📊 Real-World Audited Performance & Code Quality (Google Lighthouse)
+
+[![PageSpeed Insights Mobile](https://img.shields.io/badge/Google%20PageSpeed%20(Mobile)-96%20%2F%20100-brightgreen.svg?logo=googlechrome&logoColor=white)](https://pagespeed.web.dev/analysis/https-midaz-dev/irdmj3vu8u?form_factor=mobile)
+[![SEO Score](https://img.shields.io/badge/SEO-100%20%2F%20100-brightgreen.svg?logo=google&logoColor=white)]()
+[![Best Practices](https://img.shields.io/badge/Best%20Practices-100%20%2F%20100-brightgreen.svg)]()
+[![Accessibility](https://img.shields.io/badge/Accessibility-96%20%2F%20100-brightgreen.svg)]()
+[![Agentic Browsing](https://img.shields.io/badge/Agentic%20AI%20Readiness-3%20%2F%203%20(Max)-cyan.svg)]()
+[![Security & Governance](https://img.shields.io/badge/AI%20Governance-ISO%2FIEC%2042001%20Aligned-blue.svg)]()
+
+---
+
 ### 🛠️ Tech Stack & Architecture Capabilities
 
 <table>
