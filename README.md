@@ -1,4 +1,4 @@
-# ⚡ Dato' Samuel F. — Founder & Principal AI Systems Architect
+# ⚡ Midaz Dev - AI Systems Architect
 
 ```text
   __  __ ___ ____    _     _____   ____  _______     __
