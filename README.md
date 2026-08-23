@@ -89,7 +89,7 @@
 ---
 
 ### 📬 Connect With Me
-- 📧 **Direct Email**: `contact@midaz.dev`
+- 📧 **Direct Email**: `samuel@midaz.dev`
+- 💼 **LinkedIn Profile**: [linkedin.com/in/datosamuel](https://www.linkedin.com/in/datosamuel)
 - 🐙 **GitHub Profile**: [github.com/midazdev](https://github.com/midazdev)
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://linkedin.com)
 - 🌐 **Interactive Portfolio**: [View Live Portfolio](https://midazdev.github.io/portfolio)
